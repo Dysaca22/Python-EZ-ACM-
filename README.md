@@ -1,7 +1,10 @@
 # Python-EZ (ACM)
 Notas sobre Python
+
 Universidad del Norte
+
 Eduardo Zurek, Ph.D.
+
 Organizado por el grupo estudiantil ACM
 
 ## Clase 11 agosto de 2022
