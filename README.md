@@ -1,6 +1,5 @@
 # Python-EZ (ACM)
-Notas sobre Python
-
+Notas sobre Python \\
 Universidad del Norte
 
 Eduardo Zurek, Ph.D.
