@@ -1,4 +1,4 @@
-# Python-EZ-ACM-
+# Python-EZ (ACM)
 Curso de Python Universidad del Norte dictado por el profesor Eduardo Zurek y organizado por el grupo estudiantil ACM
 
 
