@@ -10,3 +10,10 @@ Redes neuronales (Sklearn - tensorflow)
 Otros ejemplos usando tensorflow
 https://medium.com/@nutanbhogendrasharma/tensorflow-deep-learning-model-with-iris-dataset-8ec344c49f91
 https://www.kaggle.com/code/rushabhwadkar/deep-learning-with-keras-on-iris-dataset/notebook
+
+## Clase 08 octubre 2022
+Análisis de Datos
+
+Pandas
+Seaborn
+Plotly
